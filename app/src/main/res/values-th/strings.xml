@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">โปรแกรมคำนวณเกรด</string>
+    <string name="name">ชื่อของคุณ คือ</string>
+    <string name="score">คะแนนที่ได้ คือ</string>
+    <string name="FindGrade">คำนวนเกรด</string>
+</resources>
